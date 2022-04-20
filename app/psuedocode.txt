@@ -1,0 +1,20 @@
+take value input field
+    display the value in the timer section 
+    
+if user click start
+    start countdown
+
+if click pause 
+    pause timer
+
+if click reset 
+    clear timer info and reset to default 
+    
+if timer value is equal to zero
+    sound alarm 
+    reset timer
+            
+            or switch interface to break session
+                give option to skip break session
+                
+        
